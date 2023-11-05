@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section{
+    background-color: darkseagreen;
+    height: 100%;   
+}
+
+.container-box{
+    padding: 30px 10px;
+
+}
+
+header{
+    padding: 5px 0px;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+.post-box{
+    padding: 16px 50px;
+    background-color: aliceblue;
+    margin: 10px 140px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px darkolivegreen;
+}
+
+.count-box span{
+    font-size: 30px;
+}
+
+.content h2{
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    padding: 6px 0px;
+}
+ .subcontent{
+    font-size: 1.2em;
+    padding: 2px 8px;
+ }
